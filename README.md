@@ -1,12 +1,9 @@
 # Roblox Studio Icons for Visual Studio Code
 
-<p align="center">
-    <img src="./icons/logo.png" />
-</p>
-
-![Screenshot](icons/example.png)
+A theme that mixes vladimir's Roblox VSCode Icon Theme with Material, prioritizing Roblox's default icons.
 
 ## License
 This extension is released under the MIT License.
 
-All icons are property of Roblox Corporation.
+All Roblox-related icons are property of Roblox Corporation.
+Material icons are property of Google.
