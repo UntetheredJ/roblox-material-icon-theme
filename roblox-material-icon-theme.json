@@ -24,6 +24,9 @@
     "_replicated_storage": {
       "iconPath": "icons/legacy/replicated_storage.png"
     },
+    "_replicated_first": {
+      "iconPath": "icons/legacy/replicated_first.png"
+    },
     "_server_script_service": {
       "iconPath": "icons/legacy/server_script_service.png"
     },
@@ -3384,7 +3387,7 @@
   "folderNames": {
     "src": "_workspace",
     "ReplicatedStorage": "_replicated_storage",
-    "ReplicatedFirst": "_replicated_storage",
+    "ReplicatedFirst": "_replicated_first",
     "ServerScriptService": "_server_script_service",
     "ServerStorage": "_server_storage",
     "Lighting": "_lighting",
